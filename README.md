@@ -8,7 +8,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="1.jpeg" width="49%">
+        <img src="https://github.com/Plutotech1/Card-display/blob/main/IMG_4661.jpeg" width="49%">
         <img src="2.jpeg" width="49%">
     </div>
 </div>
